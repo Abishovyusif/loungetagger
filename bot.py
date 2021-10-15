@@ -40,7 +40,7 @@ async def help(event):
                     buttons=(
                       [Button.url('🌟 Məni Qrupa Əlavə Et', 'https://t.me/loungetaggerbot?startgroup=a'),
                        Button.url('🇦🇿 Sahib', 'https://t.me/ABISHOV_27'),
-                      Button.url('🚀 Kanalımız', 'https://t.me/confident27)]
+                      Button.url('🚀 Kanalımız', 'https://t.me/confident27')]
                     ),
                     link_preview=False
                    )
