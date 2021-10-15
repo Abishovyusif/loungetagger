@@ -28,7 +28,7 @@ async def start(event):
   await event.reply("**𓆩ᴅs𓆪 Tağ Bot**, Qrup və Kanallarda üzvləri tağ etmək (çağırmaq) üçün hazırlanıb ★\nDaha çox məlumat üçün **/help**'basın.",
                     buttons=(
                       [Button.url('🌟 Məni Qrupa Əlavə Et', 'https://t.me/loungetaggerbot?startgroup=a'),
-                      Button.url('🇦🇿 Sahib', 'https://t.me/ABISHOV_27),
+                      Button.url('🇦🇿 Sahib', 'https://t.me/ABISHOV_27'),
                       Button.url('🚀 Kanalımız', 'https://t.me/confident27')]
                     ),
                     link_preview=False
@@ -39,7 +39,7 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [Button.url('🌟 Məni Qrupa Əlavə Et', 'https://t.me/loungetaggerbot?startgroup=a'),
-                       Button.url('🇦🇿 Sahib', 'https://t.me/ABISHOV_27),
+                       Button.url('🇦🇿 Sahib', 'https://t.me/ABISHOV_27'),
                       Button.url('🚀 Kanalımız', 'https://t.me/confident27)]
                     ),
                     link_preview=False
